@@ -4,6 +4,8 @@
 
 > typescript bindings for gnome cairo
 
+![](assets/gnome-cairo.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Features
